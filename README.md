@@ -3,6 +3,9 @@
 to create project
 - npm init
 
+install nodemon
+- npm i nodemon
+
 to install express and body parser
 - npm install express body-parser
 
